@@ -5,7 +5,8 @@ body{
 .searcharea {
     left:50%;
     right:50%;
-    background-color: rgb(255, 85, 0);
+    top: 50%;
+    background-color: rgb(225, 166, 200);
 }
 
 .generaltext {
