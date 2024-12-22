@@ -5,8 +5,12 @@ body{
 .searcharea {
     left:50%;
     right:50%;
-    margin-top: 25%;
+    margin-top: 20%;
+    margin-left: 8%;
+    margin-right: 8%;
     background-color: rgb(225, 166, 200);
+    border: 5px solid black;
+    align-items: center;
 }
 
 .generaltext {
@@ -15,4 +19,9 @@ body{
     text-align: center;
 
 
+}
+#fname {
+    margin-bottom: 2%;
+    margin-left: 42%;
+    margin-right: 50%;
 }
