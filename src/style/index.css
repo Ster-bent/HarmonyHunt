@@ -63,7 +63,7 @@ body{
 .siteButton {
     color: rgb(56, 15, 26);
     font-style: italic;
-    border-right:4px solid rgb(255, 219, 240);
+    border-right:4px solid rgb(255, 238, 248);
     border-bottom: 4px solid rgb(255, 212, 220);
     border-left:4px solid rgb(243, 157, 171);
     border-top:4px solid pink;
@@ -73,4 +73,11 @@ body{
     width:150px;
     height: 40px;
 
+}
+.siteButton:hover{
+    border-right:4px solid rgb(255, 216, 239);
+    border-bottom: 4px solid rgb(255, 171, 186);
+    border-left:4px solid rgb(243, 157, 171);
+    border-top:4px solid rgb(255, 147, 165);
+    background-color: rgb(254, 91, 119);
 }
