@@ -5,6 +5,14 @@
         <title>HarmonyHunt</title>
     </head>
     <body>
+        <script>
+            function findSong() {
+                let song = document.querySelector("#input");
+                let songList = document.querySelector("#songList");
+
+                songList.innerHTML = "Here are songs like " + song.value;
+            }
+        </script>
         <div class="header1">
         <h1 class="generaltext" id="title">HarmonyHunt</h1>
         </div>
@@ -12,7 +20,8 @@
             <div class="in">
                 <h1 class="generaltext" id="guide">Enter Song Name Here</h1>
                 <input type="text" id="input"> <br>
-                <button class="siteButton"><b>Search</b></button>
+                <button class="siteButton" onclick="findSong()"><b>Search</b></button> <br>
+                <h1 id="songList"></h1>
             </div>
             <img id="treble" src="images/treble-removebg-preview.png" alt=":3">
             <p class="list"></p>
