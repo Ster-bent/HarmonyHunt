@@ -63,9 +63,9 @@ body{
 .siteButton {
     color: rgb(56, 15, 26);
     font-style: italic;
-    border-right:4px solid rgb(225, 166, 200);
+    border-right:4px solid rgb(255, 219, 240);
     border-bottom: 4px solid rgb(255, 212, 220);
-    border-left:4px solid rgb(242, 200, 207);
+    border-left:4px solid rgb(243, 157, 171);
     border-top:4px solid pink;
     background-color: rgb(247, 127, 147);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
