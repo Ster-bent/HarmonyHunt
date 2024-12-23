@@ -10,3 +10,4 @@ def scan_file(selectFile):
         print(songs)
     
 scan_file(selectFile)
+print("done")
