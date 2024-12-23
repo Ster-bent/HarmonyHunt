@@ -2,6 +2,10 @@ body{
     background-color: rgb(233, 170, 208);
 }
 
+.header{
+    color: white;
+}
+
 .searcharea {
     left:50%;
     right:50%;
