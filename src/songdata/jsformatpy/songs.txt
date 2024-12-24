@@ -1,74 +1,74 @@
 ﻿Rock/Metal
-1. Smooth Criminal - Alien Ant Farm
+1. Smooth_Criminal - Alien Ant Farm
 2. B.Y.O.B. - SOAD
 3. Toxicity - SOAD
 4. Arabella - Arctic Monkeys
-5. Lonely Day - SOAD
-6. Click Click Boom - Saliva
-7. Soldier Side - SOAD
+5. Lonely_Day - SOAD
+6. Click_Click_Boom - Saliva
+7. Soldier_Side - SOAD
 8. Radio/Video - SOAD
-9. The Distance - Cake
-10. Short Skirt/Long Jacket - Cake
-11. Never There - Cake
-12. The Kill - Thirty Second To Mars
-13. Like a Stone - Audioslave
-14. Killing in the Name - RAM
-15. Feel Good Inc. - Gorillaz
-16. Come Out and Play - The Offspring
+9. The_Distance - Cake
+10. Short_Skirt/Long_Jacket - Cake
+11. Never_There - Cake
+12. The_Kill - Thirty_Second_To_Mars
+13. Like_a_Stone - Audioslave
+14. Killing_in_the_Name - RAM
+15. Feel_Good_Inc. - Gorillaz
+16. Come_Out_and_Play - The_Offspring
 17. Lydia - Highly Suspect
-18. The Diary of Jane - Breaking Benjamin
-19. Got the Life - Korn
-20. Clean My Wounds - Corrosion of Conformity
-21. My Name Is Human - Highly Suspect
+18. The_Diary_of_Jane - Breaking_Benjamin
+19. Got_the_Life - Korn
+20. Clean_My_Wounds - Corrosion_of_Conformity
+21. My_Name_Is_Human - Highly_Suspect
 22. Revenga - SOAD
 23. Sugar - SOAD
-24. I Only Lie When I Love You - Royal Blood
-25. Still Into You - Paramore
-26. No One Knows - Queens Of The Stone Age
-27. You're Gonna Go Far, Kid - The Offspring
-28. Welcome to the Black Parade - My Chemical Romance
-29. Deathwish - Red Sun Rising
-30. 5 Minutes Alone - Pantera
-31. I'm Broken - Pantera
-32. Mama - My Chemical Romance
+24. I_Only_Lie_When_I_Love_You - Royal_Blood
+25. Still_Into_You - Paramore
+26. No_One_Knows - Queens_Of_The_Stone_Age
+27. You're_Gonna_Go_Far,_Kid - The_Offspring
+28. Welcome_to_the_Black_Parade - My_Chemical_Romance
+29. Deathwish - Red_Sun_Rising
+30. 5_Minutes_Alone - Pantera
+31. I'm_Broken - Pantera
+32. Mama - My_Chemical_Romance
 33. Enter Sandman - Metallica
-34. Again - Alice in Chains
-35. Three Little Pigs - Green Jellÿ
-36. Come A Little Closer - Cage The Elephant
-37. Rusty Cage - Soundgarden
+34. Again - Alice_in_Chains
+35. Three_Little_Pigs - Green_Jellÿ
+36. Come_A_Little_Closer - Cage_The_Elephant
+37. Rusty_Cage - Soundgarden
 38. Hypnotize - SOAD
-39. Jumpsuit - Twenty One Pilots
-40. Under Your Scars - Godsmack
-41. When Legends Rise - Godsmack
+39. Jumpsuit - Twenty_One_Pilots
+40. Under_Your_Scars - Godsmack
+41. When_Legends_Rise - Godsmack
 42. Bulletproof - Godsmack
-43. Meet the Creeper - Rob Zombie
-44. Dragula - Rob Zombie
-45. I Stand Alone - Godsmack
+43. Meet_the_Creeper - Rob_Zombie
+44. Dragula - Rob_Zombie
+45. I_Stand_Alone - Godsmack
 46. Love-Hate-Sex-Pain - Godsmack
-47. I Miss The Misery - Halestorm
-48. Under And Over It - Five Finger Death Punch
-49. Bad Company - Five Finger Death Punch
-50. Lift Me Up - Five Finger Death Punch
-51. The Red - Chevelle
-52. Hail To The King - Avenged Sevenfold
-53. My Own Summer (Shove It) - Deftones
-54. This Means War - Avenged Sevenfold
-55. So Cold - Breaking Benjamin
+47. I_Miss_The_Misery - Halestorm
+48. Under_And_Over_It - Five_Finger_Death_Punch
+49. Bad_Company - Five_Finger_Death_Punch
+50. Lift_Me_Up - Five_Finger_Death_Punch
+51. The_Red - Chevelle
+52. Hail_To_The_King - Avenged_Sevenfold
+53. My_Own_Summer_(Shove_It) - Deftones
+54. This_Means_War - Avenged_Sevenfold
+55. So_Cold - Breaking_Benjamin
 56. Headstrong - Trapt
-57. The Kids Aren't Alright - The Offspring
-58. Constant Disaster - When Particles Collide
-59. Eat The Rich - Aerosmith
+57. The_Kids_Aren't_Alright - The_Offspring
+58. Constant_Disaster - When_Particles_Collide
+59. Eat_The_Rich - Aerosmith
 60. Psychonaut - Slomosa
 61. Duality - Slipknot
-62. Wherever I May Roam - Metallica
-63. Symphony of Destruction - Megadeath
+62. Wherever_I_May_Roam - Metallica
+63. Symphony_of_Destruction - Megadeath
 64. MUD - Dorothy
-65. Have a Cigar - Pink Floyd
-66. No One Like You - The Scorpions
+65. Have_a_Cigar - Pink_Floyd
+66. No_One_Like_You - The_Scorpions
 67. Moth - Audioslave
-68. The Sky Is A Neighborhood - Foo Fighters
-69. Hot To Death - Everlast
-70. Angel's Son - Sevendust
-71. All My Life - Foo Fighters
-72. Pretty Fly (For A White Guy) - The Offspring
-73. Lonely Train - Black Stone Cherry
+68. The_Sky_Is_A_Neighborhood - Foo_Fighters
+69. Hot_To_Death - Everlast
+70. Angel's_Son - Sevendust
+71. All_My_Life - Foo_Fighters
+72. Pretty_Fly_(For_A_White_Guy) - The_Offspring
+73. Lonely_Train - Black_Stone_Cherry
