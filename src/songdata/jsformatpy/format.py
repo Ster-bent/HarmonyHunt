@@ -15,7 +15,7 @@ def formfile(selectFile):
             song = str(file.readlines())
             song = song.split()
             for i in range(len(song)):
-                  if song[i] == "-" or song[i] == "\\n":
+                  if song[i] == "-":
                         song.pop(i)
                         print(song[i])
             print("++++++++++++++++++++")
