@@ -11,18 +11,14 @@ def formfile(selectFile):
     with open(selectFile, encoding="utf-8") as file:
         #Line number for file is subject to change
 
-        #* Double Check outputs and debug
-        for i in range(74):
-            song = str(file.readlines(i))
+        #! Double Check outputs and debug
+            song = str(file.readlines())
             song = song.split()
-            for j in range(len(num)):
-                for i in range(len(song)):
-                    if song[i] == num[j]:
-                        song.remove(i)
-
-
-            songNames = []
-            songNames.append(song)
+            for i in range(len(song)):
+                  if song[i] == "-" or song[i] == "\\n":
+                        song.pop(i)
+                        print(song[i])
+            print("++++++++++++++++++++")
             print(song)
     
 formfile(selectFile)
