@@ -12,14 +12,12 @@ def formfile(selectFile):
         #Line number for file is subject to change
 
         #! Double Check outputs and debug
-            song = str(file.readlines())
-            song = song.split()
-            for i in range(len(song)):
-                  if song[i] == "-":
-                        song.pop(i)
-                        print(song[i])
-            print("++++++++++++++++++++")
-            print(song)
+        for i in range(100):
+            global songNames
+            songNames = file.readline(i)
+            songNames = songNames.partition("-")[0]
+            print(songNames)
+                  
     
 formfile(selectFile)
 print("done")
